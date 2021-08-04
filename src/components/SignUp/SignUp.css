@@ -1,0 +1,14 @@
+.site-card-border-less-wrapper {
+  padding: 30px;
+  background: #001529;
+  align-items: center;
+  color: #ffffff;
+  justify-self: center;
+}
+.site-card-border-less-wrapper.title {
+  color: #ffffff;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+}
